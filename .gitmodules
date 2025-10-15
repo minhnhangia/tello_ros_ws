@@ -1,0 +1,21 @@
+[submodule "src/tello_aruco"]
+	path = src/tello_aruco
+	url = git@github.com:minhnhangia/tello_aruco.git
+[submodule "src/tello_bringup"]
+	path = src/tello_bringup
+	url = git@github.com:minhnhangia/tello_bringup.git
+[submodule "src/tello_midas"]
+	path = src/tello_midas
+	url = git@github.com:minhnhangia/tello_midas.git
+[submodule "src/tello_nav"]
+	path = src/tello_nav
+	url = git@github.com:minhnhangia/tello_nav.git
+[submodule "src/tello_ros"]
+	path = src/tello_ros
+	url = git@github.com:minhnhangia/tello_ros.git
+[submodule "src/tello_swarm"]
+	path = src/tello_swarm
+	url = git@github.com:minhnhangia/tello_swarm.git
+[submodule "ros2_shared"]
+	path = ros2_shared
+	url = git@github.com:ptrmu/ros2_shared.git
